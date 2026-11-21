@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/0-Main.unity
+    guid: a09cb257d566c489595b16ab37547666
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 8e9a5aabdaaee92479190c0140007360
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 7a9e5ce06115ff346adcf1c6ca8d5a30
+  - enabled: 1
+    path: Assets/Scenes/Learning1.unity
+    guid: b9050b0df549c1b48a9e4334918de397
+  - enabled: 1
+    path: Assets/Scenes/Learning2.unity
+    guid: 16c151c01455dc248bc827f68e7bb7fc
+  - enabled: 1
+    path: Assets/Scenes/Object.unity
+    guid: 58550be971ed2bb48b5420b3e99ea2ec
+  - enabled: 1
+    path: Assets/Scenes/Animals.unity
+    guid: 18ad0f9136da6f34f8d0e67704d74724
+  - enabled: 1
+    path: Assets/Scenes/Colors.unity
+    guid: 468b9688b215fee4d901f524ee9ef821
+  - enabled: 1
+    path: Assets/Scenes/Body.unity
+    guid: f506dd7607d60844eb479a4de199e99e
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 9d543cc773d8c6a4c9062b69b9336301
+  - enabled: 1
+    path: Assets/Scenes/How.unity
+    guid: 200114bdb872c354eb3f367c72226522
+  - enabled: 1
+    path: Assets/Scenes/Materials_Animals.unity
+    guid: a238ef190597b384082cb2269a749292
+  - enabled: 1
+    path: Assets/Scenes/Numbers.unity
+    guid: 022d8a27423586c42b1a03a98ea0f553
+  - enabled: 1
+    path: Assets/Scenes/Quiz_Animals.unity
+    guid: 204f19aa331b43a4987bf457a0df7d6c
+  - enabled: 1
+    path: Assets/Scenes/Quiz_Object.unity
+    guid: bc6e6b9319965b24e99012dd080150d2
+  - enabled: 1
+    path: Assets/Scenes/AR_Animals.unity
+    guid: 6090c8f720cc58e4da69aed8f3b127fb
+  m_configObjects: {}

@@ -1,0 +1,89 @@
+# Unity generated folders & caches
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+Recordings/
+
+# IDE & OS files
+.vs/
+.gradle/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+.DS_Store
+Thumbs.db
+
+# Large binaries & archives (> 49MB)
+*.apk
+*.aab
+*.obb
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.mov
+*.blend1
+*.tgz
+
+# Files >= 45MB filtered for GitHub
+Arabic (Tipe 2).zip
+Arabic(tipe 1).zip
+Arabic.zip
+Blender/cat.blend
+Blender/cat.blend1
+Final_Project-Arabiya/Blender/cat.blend
+Final_Project-Arabiya/Blender/cat.blend1
+ARabiya - Copy/Aplikasi/ARabiya-1.apk
+ARabiya - Copy/Aplikasi/ARabiya-2.apk
+ARabiya - Copy/Aplikasi/ARabiya-3.apk
+ARabiya - Copy/Aplikasi/ARabiya-4.apk
+ARabiya - Copy/Aplikasi/ARabiya-6.apk
+ARabiya - Copy/Aplikasi/Tes-1.apk
+ARabiya - Copy/Library/ArtifactDB
+ARabiya - Copy/Packages/com.ptc.vuforia.engine-11.1.3.tgz
+ARabiya - Copy/Library/PlayerDataCache/Android/Data/data.unity3d
+ARabiya - Copy/Library/PackageCache/com.ptc.vuforia.engine@c33a8d5b6101/Vuforia/Plugins/OSXUniversal/universal/libVuforiaEngine.dylib
+ARabiya - Copy/Library/Bee/artifacts/objcopy_5lmi/libil2cpp.dbg.so
+ARabiya - Copy/Library/Bee/artifacts/objcopy_b9ry/libil2cpp.dbg.so
+ARabiya - Copy/Library/Bee/artifacts/Android/d8kzr/libil2cpp.so
+ARabiya - Copy/Library/Bee/artifacts/Android/iz17e/libil2cpp.so
+ARabiya - Copy/Library/Bee/artifacts/Android/il2cppOutput/build/arm64-v8a/libil2cpp.dbg.so
+ARabiya - Copy/Library/Bee/artifacts/Android/il2cppOutput/build/armeabi-v7a/libil2cpp.dbg.so
+ARabiya - Copy/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/data.unity3d
+ARabiya - Copy/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/local_aar_for_lint/release/out.aar
+ARabiya - Copy/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_assets/release/out/bin/Data/data.unity3d
+ARabiya - Copy/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/10f42d9d60b864f05cb6e0b17008ecd7/transformed/out/assets/bin/Data/data.unity3d
+ARabiya - Copy/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/outputs/apk/release/launcher-release.apk
+ARabiya - Copy/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/compressed_assets/release/out/assets/bin/Data/data.unity3d.jar
+ARabiya - Copy/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/assets/release/bin/Data/data.unity3d
+ARabiya - Copy/Assets/SamplesResources/AugmentationAssets/Models/Astronaut.FBX
+ARabiya/Aplikasi/ARabiya-11.apk
+ARabiya/Aplikasi/ARabiya-12.apk
+ARabiya/Aplikasi/ARabiya-13.apk
+ARabiya/Aplikasi/Tes-1.apk
+ARabiya/Library/ArtifactDB
+ARabiya/Packages/com.ptc.vuforia.engine-11.1.3.tgz
+ARabiya/Library/PackageCache/com.ptc.vuforia.engine@c33a8d5b6101/Vuforia/Plugins/OSXUniversal/universal/libVuforiaEngine.dylib
+ARabiya/Library/Bee/artifacts/objcopy_5lmi/libil2cpp.dbg.so
+ARabiya/Library/Bee/artifacts/objcopy_b9ry/libil2cpp.dbg.so
+ARabiya/Library/Bee/artifacts/Android/d8kzr/libil2cpp.so
+ARabiya/Library/Bee/artifacts/Android/iz17e/libil2cpp.so
+ARabiya/Library/Bee/artifacts/Android/il2cppOutput/build/arm64-v8a/libil2cpp.dbg.so
+ARabiya/Library/Bee/artifacts/Android/il2cppOutput/build/armeabi-v7a/libil2cpp.dbg.so
+ARabiya/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/data.unity3d
+ARabiya/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/local_aar_for_lint/release/out.aar
+ARabiya/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/outputs/apk/release/launcher-release.apk
+ARabiya/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/local_aar_for_lint/release/out.aar
+ARabiya/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/outputs/apk/release/launcher-release.apk
+ARabiya/Assets/SamplesResources/AugmentationAssets/Models/Astronaut.FBX

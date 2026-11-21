@@ -1,0 +1,11 @@
+Model Information:
+* title:	Horse basemesh
+* source:	https://sketchfab.com/3d-models/horse-basemesh-0ef074acfc834c769a6ec37d6a4be1b9
+* author:	sidahearne (https://sketchfab.com/sidahearne)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Horse basemesh" (https://sketchfab.com/3d-models/horse-basemesh-0ef074acfc834c769a6ec37d6a4be1b9) by sidahearne (https://sketchfab.com/sidahearne) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
